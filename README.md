@@ -17,6 +17,4 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em transformar apre
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tatiele-Cartacho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+
